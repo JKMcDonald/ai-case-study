@@ -4,9 +4,9 @@
 
 * Name of company - Credo.AI
 
-* When was the company incorporated? 
+* When was the company incorporated? 2021
 
-* Who are the founders of the company?
+* Who are the founders of the company? 
 
 * How did the idea for the company (or project) come about?
 
